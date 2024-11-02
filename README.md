@@ -18,9 +18,9 @@ Engagement and Insights: Aims to enhance fan engagement and provide valuable ins
 **How to Use**
 
 Clone the repository and navigate to the project directory.
-Install the required dependencies from requirements.txt or using the provided environment.yml file for conda users.
+Install the required dependencies from the provided environment.yml file.
 Run the Streamlit app using:
-streamlit run app.py
+streamlit run command
 Enter match-specific data through the interactive interface to get the predicted win probability for the chasing team.
 
 
